@@ -1,1 +1,1 @@
-# selenium-docker
+# selenium-lambda-docker
